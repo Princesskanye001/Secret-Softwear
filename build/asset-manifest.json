@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1024d556.css",
+    "main.js": "/static/js/main.9610f8c5.js",
+    "static/media/blackhoodie-removebg-preview.png": "/static/media/blackhoodie-removebg-preview.0cc9948ba4b06c4ea01b.png",
+    "static/media/whitehoodie-removebg-preview.png": "/static/media/whitehoodie-removebg-preview.ceb30a09f7e5b0349323.png",
+    "static/media/cap-removebg-preview.png": "/static/media/cap-removebg-preview.10e04986dc80d1e09917.png",
+    "static/media/greybeanie.JPG": "/static/media/greybeanie.8877313a792b38e9d4d9.JPG",
+    "static/media/blackbeanie.JPG": "/static/media/blackbeanie.bfab6bca499ae9dac6d7.JPG",
+    "static/media/khakibuckethat.JPG": "/static/media/khakibuckethat.d831c67835366190879c.JPG",
+    "static/media/tshirt.JPG": "/static/media/tshirt.aa296a127ad592deca64.JPG",
+    "static/media/blackbuckethat.JPG": "/static/media/blackbuckethat.97874d80ed3ef226a6d2.JPG",
+    "index.html": "/index.html",
+    "main.1024d556.css.map": "/static/css/main.1024d556.css.map",
+    "main.9610f8c5.js.map": "/static/js/main.9610f8c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1024d556.css",
+    "static/js/main.9610f8c5.js"
+  ]
+}
